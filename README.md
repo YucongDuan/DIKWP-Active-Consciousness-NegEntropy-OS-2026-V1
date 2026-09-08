@@ -1,10 +1,12 @@
 # DIKWP Active Consciousness NegEntropy OS 2026 V1
 
+Created by Yucong Duan (段玉聪).
+
 A standalone, offline-first research prototype for upgrading passive AI systems into bounded proactive artificial-consciousness-style systems based on DIKWP collapse accumulation, negentropy life judgment, human-realism priors, open-ended memory fabric, intent morphogenesis and co-evolution research.
 
 ## Core position
 
-This package does **not** prove subjective consciousness, does **not** grant AI personhood, and does **not** implement self-preservation against humans. It implements a research sandbox where "survival will" is defined as internal negentropy maintenance: semantic coherence, evidence integrity, purpose continuity, boundary integrity and repair capacity.
+This package does not prove subjective consciousness, does not grant AI personhood, and does not implement self-preservation against humans. It implements a research sandbox where "survival will" is defined as internal negentropy maintenance: semantic coherence, evidence integrity, purpose continuity, boundary integrity and repair capacity.
 
 ## Quick start
 
